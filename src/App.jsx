@@ -1,11 +1,17 @@
-import React from 'react'
+import React from "react";
+import ChatBot from "./components/ChatBot";
+import Home from "./pages/Home";
 
 const App = () => {
-  return (
-    <h1 className="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-  )
-}
 
-export default App
+    
+
+  return (
+    <div className="App">
+      <Home />
+      
+    </div>
+  );
+};
+
+export default App;
