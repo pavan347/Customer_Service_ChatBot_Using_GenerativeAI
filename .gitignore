@@ -15,6 +15,9 @@ dist-ssr
 .env
 SETUP.md
 
+# project files
+src
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
